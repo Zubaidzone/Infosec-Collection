@@ -1,0 +1,8 @@
+https://github.com/trimstray/the-book-of-secret-knowledge
+https://github.com/bregman-arie/devops-exercises
+https://github.com/kabachook/k8s-security
+https://github.com/Hack-with-Github/Awesome-Hacking
+https://github.com/djadmin/awesome-bug-bounty
+https://github.com/wtsxDev/Penetration-Testing
+https://prabhnair.in/prabhnaircoffee/
+https://github.com/Ignitetechnologies/HackTheBox-CTF-Writeups
